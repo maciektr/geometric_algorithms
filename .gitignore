@@ -258,3 +258,4 @@ dmypy.json
 *.zip
 *.docx
 *.pdf
+ignore/
