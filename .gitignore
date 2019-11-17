@@ -259,3 +259,4 @@ dmypy.json
 *.docx
 *.pdf
 ignore/
+lab3/somefile.json
