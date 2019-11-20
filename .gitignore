@@ -260,3 +260,5 @@ dmypy.json
 *.pdf
 ignore/
 lab3/somefile.json
+
+lab4/somefile.json
