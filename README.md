@@ -7,7 +7,7 @@ This repository contains algorithms implemented as part of "Geometric algorithms
 | [Lab 1](https://github.com/maciektr/geometric_algorithms/tree/master/lab1) | Preliminaries | Determinant in Geometry; Points classification against line
 | [Lab 2](https://github.com/maciektr/geometric_algorithms/tree/master/lab2) | Convex Hull | Graham and Jarvis 
 | [Lab 3](https://github.com/maciektr/geometric_algorithms/tree/master/lab3) | Lines intersections | Sweeping  
-| [Group Project](https://github.com/maciektr/geometric_algorithms/tree/master/GroupProject) | Quadtress and kd-trees | 
+| [Group Project](https://github.com/maciektr/geometric_algorithms_project) | QuadTree and KD-tree | 
 
 ## Bibliography
 * Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, **_"Introduction to Algorithms"_**, Third Edition, The MIT Press
